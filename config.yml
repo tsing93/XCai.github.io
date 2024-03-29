@@ -12,7 +12,7 @@ title                    : "Cai Xing's Homepage"
 title_separator          : "-"
 name                     : &name "Cai Xing"
 description              : &description "personal description"
-url                      : "https://tsing93s.github.io/XCai.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://tsing93.github.io/XCai.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tsing93/XCai.github.io"
 
@@ -35,7 +35,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=R9DuK7oAAAAJ"
   impactstory      : # URL
   orcid            : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Cai-Xing-4"
 
   # Repositories and software development
