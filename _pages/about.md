@@ -18,6 +18,8 @@ Research Interests:
 
 News!
 ------
+- **Apr. 2024** My paper 'Multiscale Finite Element Analysis of Layer Interface Effects on Cracking in Semi-Flexible Pavements at different temperatures' was accepted by Mechanics of Materials!
+  
 - **Mar. 2024** I will join the Department of Traffic and Transortation at The Southeast University as a Associate Professor!
 
 - **Mar. 2024** I join the Department of Computing at The Hong Kong Polytechnic University as a Postdoctoral Fellow!
