@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. **Xing Cai**, Prabin Kumar Ashish, Pai Zheng, Zhen Leng, Jun Yang, Minghui Gong. Multiscale Finite Element Analysis of Layer Interface Effects on Cracking in Semi-Flexible Pavements at different temperatures. *Mechanics of Materials*. (Peer Review)
+1. **Xing Cai**, Prabin Kumar Ashish, Pai Zheng, Zhen Leng, Jun Yang, Minghui Gong. Multiscale Finite Element Analysis of Layer Interface Effects on Cracking in Semi-Flexible Pavements at different temperatures. *Mechanics of Materials*, 2024， 105008.
 2. **Xing Cai**, Prabin Kumar Ashish, Zhen Leng, Zhifei Tan, Hainian Wang. Effects of Grouting Time on Mechanical Properties of Cold Mix Based Semi-Flexible Pavement Composite Towards a Sustainable Paving Material. *Journal of Cleaner Production*, 2023, 139857.
 3. **Xing Cai**, Zhen Leng, Prabin Kumar Ashish, Jun Yang, Minghui Gong. Temperature dependency analysis of the fracture characteristics of semi-flexible pavement (SFP) mixtures using acoustic emission technique, *International Journal of Pavement Engineering*, 2023, 2201903.
 4. **Xing Cai**, Zhen Leng, Prabin Kumar Ashish, Jun Yang, Minghui Gong. Temperature effect on mesoscale damage behavior of Semi-Flexible Pavement based materials using the finite element method. *Theoretical and Applied Fracture Mechanics*. 2023, 124, 103742. 
